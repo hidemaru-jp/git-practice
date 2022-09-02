@@ -43,6 +43,7 @@ header .heading{
   flex-wrap:wrap;
 }
 
+/* ワイルドカードを利用したサイズ設定*/
 [class^="box-item"]{
   padding:0;
   margin:0 auto;
